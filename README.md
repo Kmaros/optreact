@@ -1,3 +1,10 @@
+Luis Enrique Camaros Valdes
+Carlos Ariel Sanchez Aragones
+FTE Grupo: 303
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
